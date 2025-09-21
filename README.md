@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @emrecanokten
-- 👀 I’m interested in data and how it can be used the make the world better
-- 🌱 I’m currently learning data science
-- 💞️ I’m looking to collaborate on data visualisation and machine learning projects, ideally both.
+- 👀 I’m interested in data and how it can be used the improve our life
+- 🌱 I’m currently learning app software development, both web and mobile
+- 💞️ I’m looking to collaborate on AI and data visualisation
 - 📫 How to reach me: emrecanokten@gmail.com
 
 <!---
