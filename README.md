@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @emrecanokten
-- 👀 I’m interested in data and how it can be used the improve our life
-- 🌱 I’m currently learning app software development, both web and mobile
-- 💞️ I’m looking to collaborate on AI and data visualisation
-- 📫 How to reach me: emrecanokten@gmail.com
+- 🎨 I craft experiences by analysing data, designing visualisations and building user interfaces
+- 🌍 Find my articles and portfolio in www.emrecanokten.com
+- 📱 Download my first app, Flow [Flow: Screen Time Control](https://apps.apple.com/gb/app/flow-screen-time-control/id6754340979)
 
 <!---
 emrecanokten/emrecanokten is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
